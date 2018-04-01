@@ -1,3 +1,7 @@
+test.db
+www/dist/css/
+www/dist/js/bundle.js
+
 # https://github.com/github/gitignore/blob/master/Node.gitignore
 
 # Logs
