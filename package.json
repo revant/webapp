@@ -7,6 +7,7 @@
   "author": "Revant Nandgaonkar",
   "license": "MIT",
   "dependencies": {
+    "frappe-datatable": "link:../datatable",
     "frappejs": "link:../frappejs"
   }
 }

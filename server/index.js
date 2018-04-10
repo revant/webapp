@@ -11,5 +11,13 @@ module.exports = {
             staticPath: './www',
             config: config,
         });
+        // let sessions = await frappe.db.getAll({doctype:'Session'});
+        // for (const key in sessions) {
+        //     if (sessions.hasOwnProperty(key)) {
+        //         const session = sessions[key];
+        //         console.log(session);
+        //         frappe.db.delete('Session', session.name);
+        //     }
+        // }
     }
 }
